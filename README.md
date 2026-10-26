@@ -13,3 +13,5 @@ et le **risque de marché**. Je recherche un stage dans ce domaine.
 
 ### Outils
 Python (NumPy, pandas, scikit-learn, LightGBM) · Git · LaTeX
+
+📫 [LinkedIn](https://www.linkedin.com/in/mohamed-walid-chaabane-2845b73a0/)
